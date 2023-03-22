@@ -1,0 +1,1001 @@
+Strategy,Name,Outcome
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
+ 1,Player,Both Bust
+ 1,Player,Tie
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Both Bust
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Tie
+ 1,Player,Dealer
+ 1,Player,Dealer
+ 1,Player,Player
+ 1,Player,Dealer
